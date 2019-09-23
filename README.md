@@ -36,7 +36,7 @@ GIF created with [RcordIt](https://recordit.co/#).
 ## Notes
 
 * Setting a custom range for the user input was a bit confusing at first.
-* Trying to use a Text View instead of a Text Field was a bit challenging since we have to conform to a delegate in order to
+* Trying to use a Text View instead of a Text Field was a bit tricky at first since we have to conform to a delegate in order to
   handle events. In the end decided to stick to the Text Field instead of the Text View.
 * Currently still trying to figure out how to remember the bill amount across app restarts.
 
